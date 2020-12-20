@@ -2,8 +2,10 @@
 
 header {
     text-align: center;
+    background-color: darkslategrey;
 }
 
 nav {
     flex-direction: row;
+    background-color: gray;
 }
